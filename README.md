@@ -16,7 +16,7 @@ Start Ollama Service
 ollama serve
 Pull Llama3 Model
 ollama pull llama3.2:1b
-🚀 Project Setup
+## Project Setup
 
 Create Virtual Environment
 python3 -m venv venv
