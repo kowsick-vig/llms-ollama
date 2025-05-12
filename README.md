@@ -5,7 +5,7 @@ A GenAI-powered tool that generates optimized Dockerfiles based on programming l
 ## 📋 Prerequisites
 
 ### Installing Ollama
-
+---
 #### For Linux:
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
@@ -16,6 +16,7 @@ Start Ollama Service
 ollama serve
 Pull Llama3 Model
 ollama pull llama3.2:1b
+---
 ## Project Setup
 
 Create Virtual Environment
