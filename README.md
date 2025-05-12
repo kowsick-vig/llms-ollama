@@ -1,6 +1,4 @@
-Certainly! Here's a more structured format for your README with separate sections in the GitHub markdown format:
 
-````markdown
 # 🐳 Dockerfile Generator
 
 A GenAI-powered tool that generates optimized Dockerfiles based on programming language input. This project uses Ollama with the Llama3 model to create Dockerfiles following best practices.
